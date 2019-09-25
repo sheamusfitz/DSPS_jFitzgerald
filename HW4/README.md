@@ -1,0 +1,1 @@
+Data importing and formatting by Victor Ramirez and Liam Kelley. Astronomy knowledge by Victor Ramirez. Administrative direction by Victor Ramirez. Debugging by Liam Kelley. Mathematical derivations by Shea Fitzgerald. General code structure by Shea Fitzgerald.
