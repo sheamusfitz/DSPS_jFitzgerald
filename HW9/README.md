@@ -5,4 +5,4 @@ with some corrections from Shea Fitzgerald and Elliot Jones.
 
 The kaggle validation was performed by Shea Fitzgerald.
 
-Homework 8 plot reviews for [Sam Matylewicz](https://github.com/sheamusfitz/DSPS_sMatylewicz) and
+Homework 8 plot reviews for [Sam Matylewicz](https://github.com/sheamusfitz/DSPS_sMatylewicz) and [Zach Germain](https://github.com/sheamusfitz/DSPS_zgermain).
